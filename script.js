@@ -186,7 +186,22 @@ document.addEventListener('DOMContentLoaded', function () {
         'familia-leveron-murillo': { nombre: 'Familia Leverón – Murillo', personas: 2 },
         'allan-velasquez': { nombre: 'Allan Velásquez', personas: 1 },
         'wendel-rosales': { nombre: 'Wendel Rosales', personas: 1 },
-        'joel-orellana': { nombre: 'Joel Orellana', personas: 1 }
+        'joel-orellana': { nombre: 'Joel Orellana', personas: 1 },
+        // Nuevas familias agregadas
+        'familia-hernandez-portillo': { nombre: 'Familia Hernández-Portillo', personas: 2 },
+        'familia-madrigal-hernandez': { nombre: 'Familia Madrigal-Hernández', personas: 2 },
+        'familia-hernandez-castellon': { nombre: 'Familia Hernández-Castellón', personas: 4 },
+        'familia-hernandez': { nombre: 'Familia Hernández', personas: 3 },
+        'familia-martinez-hernandez': { nombre: 'Familia Martínez-Hernández', personas: 3 },
+        'familia-garcia-lopez': { nombre: 'Familia García-López', personas: 4 },
+        'familia-alvares-hernandez': { nombre: 'Familia Álvarez-Hernández', personas: 2 },
+        'familia-herrera-maldonado': { nombre: 'Familia Herrera-Maldonado', personas: 2 },
+        'familia-hernandez-andino': { nombre: 'Familia Hernández-Andino', personas: 2 },
+        'jocknier-hernandez': { nombre: 'Jocknier Hernández', personas: 1 },
+        'familia-lozano-silva': { nombre: 'Familia Lozano-Silva', personas: 4 },
+        'dolores-flores': { nombre: 'Dolores Flores', personas: 1 },
+        'juan-angel': { nombre: 'Juan Ángel', personas: 1 },
+        'familia-diaz-hernandez': { nombre: 'Familia Díaz-Hernández', personas: 6 }
     };
 
     function obtenerParametroURL(nombre) {
